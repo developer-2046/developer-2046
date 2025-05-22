@@ -10,7 +10,7 @@
 - 🧬 A full-fledged **machine learning library in Java** (Regression, Classification, SGD, Cross-Validation, and more) — [javaml](https://github.com/developer-2046/javaml)
 - 🌐 A **distributed systems simulation** using Java, Rust, and system design principles
 - 📉 **Financial market analysis** using RMT, eigenvalue entropy, and Shannon entropy over time
-- 🧠 A local **Samantha-style AI assistant** (think *Her* meets open-source)
+- 🧠 **Generalization Phase transition in neural network scalling** A meta study on why models overfit and how to prevent it
 
 ---
 
@@ -24,11 +24,11 @@
 ---
 
 ## 🧪 Projects That Represent Me
-- ⚙️ [javaml](https://github.com/developer-2046/javaml): Java Machine Learning Library  
+- ⚙️ [javaml]: Java Machine Learning Library  
 - 🧠 Deep learning explained through linear algebra lectures  
 - 🛡️ Cybersecurity club content: Port scanning, crypto skills, CTFs  
 - 📈 Financial entropy analysis using Python & SP500 market data  
-- 🕹️ Upcoming: A **3D game engine in Java**
+- 🕹️ Entropy Guided CLusterint engine.
 
 ---
 
