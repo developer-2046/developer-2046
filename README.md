@@ -34,15 +34,15 @@ University of Utah · Sep 2024 – Present
 
 **International COMAP Mathematical Modeling Contest — “Successful Participant”**  
 May 2025  
-* Built a spatiotemporal model of Baltimore’s traffic using GNNs, TCNs, and Neural ODEs; achieved U.S. Top-3 score on Problem D.:contentReference[oaicite:12]{index=12}  
+* Built a spatiotemporal model of Baltimore’s traffic using GNNs, TCNs, and Neural ODEs; achieved U.S. Top-3 score on Problem D.:contentReference[oaicite:12]{index=12}
+
+**A breath of fresh air AI hackathon — Nvidia's Award**  
+June 2025  
+* Achieved 0.872 R squared accuracy in forecasting PM2.5 air quality by developing an award-winning (Nvidia's Choice) GCN-LSTM deep learning model at the Fresh Air Hackathon.[oaicite:13]{index=13}  
 
 **Lucid Software Global Programming Competition — 1st Place**  
 Oct 2024  
 * Out-performed 500-plus competitors (incl. Duke & UNC PhDs) with a parallelized heuristic search written in Rust.:contentReference[oaicite:13]{index=13}
-
-**A breath of fresh air AI hackathon — Nvidia's Award**  
-Oct 2024  
-* Achieved 0.872 R squared accuracy in forecasting PM2.5 air quality by developing an award-winning (Nvidia's Choice) GCN-LSTM deep learning model at the Fresh Air Hackathon.[oaicite:13]{index=13}  
 
 ---
 
