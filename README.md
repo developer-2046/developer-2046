@@ -1,6 +1,6 @@
 # **Yuvraj Malik**
 Salt Lake City, UT · +1 (801) 879-7242 · yuvrajmalik2046@gmail.com  
-[GitHub ↗](https://github.com/developer-2046) · [LinkedIn ↗](https://www.linkedin.com/in/yuvrajmalik/)
+[GitHub ↗](https://github.com/developer-2046) · [LinkedIn ↗](https://www.linkedin.com/in/yuvrajmalik/) · [Protfolio ↗](https://yuvraj-malik.netlify.app/)
 
 ---
 
