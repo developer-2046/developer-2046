@@ -24,7 +24,7 @@ explorers and publication-ready figures (Plotly/Emperor)
 faculty/grad students to turn findings into experiments and reports.
 
 ---
-## Works in Progress
+## On-going Research
 **Stability and Rates of Gradient-Based Learning in Multi-Player Games** Studying the stability and finite-time rates of popular gradient-based learning dynamics in N -player smooth general-sum games with convex constraints and noisy feedback.While two-player settings are well-understood, extensions to N -player, constrained, and noisy environments remain incomplete. My work will unify Lyapunov methods, variational inequalities, and spectral analysis of game Jacobians to provide both positive (convergence guarantees) and negative (cycling/divergence) results.
 
 **Classifying Market Crashes** Complex systems are extensively studied using spectral and network properties to tackle various real-world challenges. The financial market's complexity arises from the interactions among its constituent stocks, resulting in dynamic correlation patterns that change significantly during critical events. This study focuses on the eigen-entropy and network properties of financial correlation matrices (S&P 500, 2008–2024; Number of stocks, N = 427). Identifying and segregating these critical events is vital for timely intervention and prevention. 
