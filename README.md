@@ -6,9 +6,27 @@ Salt Lake City, UT · +1 (801) 879-7242 · yuvrajmalik2046@gmail.com
 
 ## 🛰️ Professional Profile
 Double-major in **Computer Science** and **Applied Mathematics** at the University of Utah.  
-I design and ship production-grade systems that *learn, scale, and resist failure*—from a Java machine-learning library to a Rust back-tester and an entropy-driven market-regime detector. Comfortable jumping between low-level optimization, statistical theory, and full-stack delivery while writing documentation that humans actually read.
----
+I design and ship production-grade systems that *learn, scale, and resist failure*—from a Java machine-learning library to a Rust back-tester and an entropy-driven market-regime detector. Comfortable jumping between low-level optimization, statistical theory, and full-stack delivery while writing documentation that humans actually read. 
 
+---
+## Experience
+**Undergraduate Research Assistant, University of Utah**   Sep 2024 - Current
+• Investigating practice effects in digital-health assessment tasks; designing and fitting mixed-effects/time-series
+models grounded in cognitive-science theory (Python/R)
+• Building reproducible analysis pipelines and internal tooling; writing clean, tested code and maintain rigorous
+data/experiment logs
+• Created interactive scientific visualizations for human-gut microbiome datasets; delivered browser-based
+explorers and publication-ready figures (Plotly/Emperor)
+• Deployed research apps on Linux; automated workflows and CI/CD (Docker, Git); collaborated with
+faculty/grad students to turn findings into experiments and reports.
+
+---
+## Works in Progress
+**Stability and Rates of Gradient-Based Learning in Multi-Player Games** Studying the stability and finite-time rates of popular gradient-based learning dynamics in N -player smooth general-sum games with convex constraints and noisy feedback.While two-player settings are well-understood, extensions to N -player, constrained, and noisy environments remain incomplete. My work will unify Lyapunov methods, variational inequalities, and spectral analysis of game Jacobians to provide both positive (convergence guarantees) and negative (cycling/divergence) results.
+**Classifying Market Crashes** Complex systems are extensively studied using spectral and network properties to tackle various real-world challenges. The financial market's complexity arises from the interactions among its constituent stocks, resulting in dynamic correlation patterns that change significantly during critical events. This study focuses on the eigen-entropy and network properties of financial correlation matrices (S&P 500, 2008–2024; Number of stocks, N = 427). Identifying and segregating these critical events is vital for timely intervention and prevention. 
+**Modeling Practice Effects in Remote Cognitive Assessments** Remote health assessments are vital for accessible healthcare, especially for people in places like rural Utah and people who cannot frequently visit healthcare facilities/clinics. But due to remote health assessment being repetitive, people start to improve in assessment not because of improvement in their underlying ability rather due to memorization also known as practice effect. Practice effects can skew the results. Our research will explore these performance changes due to task repetition—which isn't true learning—to make remote assessment tools more accurate. 
+
+---
 ## 🎓 Education
 **B.S. Computer Science & Applied Mathematics** — University of Utah (Current)
 Salt Lake City, UT  
@@ -25,23 +43,18 @@ Key coursework: Probability Theory · Stochastic Processes · Time-Series Analys
 
 ---
 
-## 🏆 Experience & Awards
-**Undergraduate Research Assistant — Human-Computer Interaction Lab**  
-University of Utah · Sep 2024 – Present  
-* Designed and executed controlled usability studies; collected multimodal interaction logs.  
-* Applied mixed-effects models and bootstrapped CIs to refine experimental design and increase statistical power.
-
+## 🏆 Awards
 **International COMAP Mathematical Modeling Contest — “Successful Participant”**  
 May 2025  
 * Built a spatiotemporal model of Baltimore’s traffic using GNNs, TCNs, and Neural ODEs; achieved U.S. Top-3 score on Problem D.
 
 **A breath of fresh air AI hackathon — Nvidia's Award**  
 June 2025  
-* Achieved 0.872 R squared accuracy in forecasting PM2.5 air quality by developing an award-winning (Nvidia's Choice) GCN-LSTM deep learning model at the Fresh Air Hackathon.[oaicite:13]{index=13}  
+* Achieved 0.872 R squared accuracy in forecasting PM2.5 air quality by developing an award-winning (Nvidia's Choice) GCN-LSTM deep learning model at the Fresh Air Hackathon.
 
 **Lucid Software Global Programming Competition — 1st Place**  
 Oct 2024  
-* Out-performed 500-plus competitors (incl. Duke & UNC PhDs) with a parallelized heuristic search written in Rust.:contentReference[oaicite:13]{index=13}
+* Out-performed 500-plus competitors (incl. Duke & UNC PhDs) with a parallelized heuristic search written in Rust.
 
 ---
 
@@ -57,12 +70,6 @@ Pipeline that computes eigen-entropy of rolling S&P 500 correlation matrices, pe
 
 ### Market Index Analysis Toolkit
 Dynamic S&P 500 tracker with historical GICS mapping, price normalization, and CSV export for downstream factor models; published for community use.
-
----
-
-## 🌱 Extracurricular & Interests
-*Officer, Cybersecurity Club* — run CTF workshops on port scanning and crypto challenges.  
-Building a hobby OS in Rust/C/Assembly; experimenting with Transformer scaling laws and meta-generalization.  
 
 ---
 
