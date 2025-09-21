@@ -6,15 +6,14 @@ Salt Lake City, UT · +1 (801) 879-7242 · yuvrajmalik2046@gmail.com
 
 ## 🛰️ Professional Profile
 Double-major in **Computer Science** and **Applied Mathematics** at the University of Utah.  
-I design and ship production-grade systems that *learn, scale, and resist failure*—from a Java machine-learning library to a Rust back-tester and an entropy-driven market-regime detector. Comfortable jumping between low-level optimization, statistical theory, and full-stack delivery while writing documentation that humans actually read.:contentReference[oaicite:8]{index=8}
-
+I design and ship production-grade systems that *learn, scale, and resist failure*—from a Java machine-learning library to a Rust back-tester and an entropy-driven market-regime detector. Comfortable jumping between low-level optimization, statistical theory, and full-stack delivery while writing documentation that humans actually read.
 ---
 
 ## 🎓 Education
 **B.S. Computer Science & Applied Mathematics** — University of Utah (Current)
 Salt Lake City, UT  
 
-Key coursework: Probability Theory · Stochastic Processes · Time-Series Analysis · Econometrics · Numerical Linear Algebra · Convex Optimization · Machine Learning · Deep Learning · Distributed & High-Performance Computing · Database Systems:contentReference[oaicite:9]{index=9}  
+Key coursework: Probability Theory · Stochastic Processes · Time-Series Analysis · Econometrics · Numerical Linear Algebra · Convex Optimization · Machine Learning · Deep Learning · Distributed & High-Performance Computing · Database Systems
 
 ---
 
@@ -22,7 +21,7 @@ Key coursework: Probability Theory · Stochastic Processes · Time-Series Analys
 **Languages** Python · Rust · Java · C/C++ · SQL · R · Julia  
 **Frameworks / Libraries** PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy · Polars · Matplotlib · Plotly · Jupyter · PyO3  
 **DevOps & Tools** Git · Docker · Linux · VS Code · Grafana  
-**Concepts** Information Theory · Random Matrix Theory · Spectral Graph Theory · Time-Series Modeling · Back-testing · Optimization · Cryptography · Ethical Hacking:contentReference[oaicite:10]{index=10}  
+**Concepts** Information Theory · Random Matrix Theory · Spectral Graph Theory · Time-Series Modeling · Back-testing · Optimization · Cryptography · Ethical Hacking
 
 ---
 
@@ -30,11 +29,11 @@ Key coursework: Probability Theory · Stochastic Processes · Time-Series Analys
 **Undergraduate Research Assistant — Human-Computer Interaction Lab**  
 University of Utah · Sep 2024 – Present  
 * Designed and executed controlled usability studies; collected multimodal interaction logs.  
-* Applied mixed-effects models and bootstrapped CIs to refine experimental design and increase statistical power.:contentReference[oaicite:11]{index=11}  
+* Applied mixed-effects models and bootstrapped CIs to refine experimental design and increase statistical power.
 
 **International COMAP Mathematical Modeling Contest — “Successful Participant”**  
 May 2025  
-* Built a spatiotemporal model of Baltimore’s traffic using GNNs, TCNs, and Neural ODEs; achieved U.S. Top-3 score on Problem D.:contentReference[oaicite:12]{index=12}
+* Built a spatiotemporal model of Baltimore’s traffic using GNNs, TCNs, and Neural ODEs; achieved U.S. Top-3 score on Problem D.
 
 **A breath of fresh air AI hackathon — Nvidia's Award**  
 June 2025  
@@ -57,8 +56,7 @@ Modular engine with tick-level execution, walk-forward evaluation, and equity-cu
 Pipeline that computes eigen-entropy of rolling S&P 500 correlation matrices, performs PCA, and clusters regimes with K-Means; visualizes crash periods & volatility bursts.  
 
 ### Market Index Analysis Toolkit
-Dynamic S&P 500 tracker with historical GICS mapping, price normalization, and CSV export for downstream factor models; published for community use.:contentReference[oaicite:14]{index=14}  
-
+Dynamic S&P 500 tracker with historical GICS mapping, price normalization, and CSV export for downstream factor models; published for community use.
 ---
 
 ## 🌱 Extracurricular & Interests
