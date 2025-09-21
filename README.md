@@ -57,6 +57,7 @@ Pipeline that computes eigen-entropy of rolling S&P 500 correlation matrices, pe
 
 ### Market Index Analysis Toolkit
 Dynamic S&P 500 tracker with historical GICS mapping, price normalization, and CSV export for downstream factor models; published for community use.
+
 ---
 
 ## 🌱 Extracurricular & Interests
