@@ -13,17 +13,22 @@ I design and ship production-grade systems that *learn, scale, and resist failur
 **Undergraduate Research Assistant, University of Utah**   Sep 2024 - Current
 • Investigating practice effects in digital-health assessment tasks; designing and fitting mixed-effects/time-series
 models grounded in cognitive-science theory (Python/R)
+
 • Building reproducible analysis pipelines and internal tooling; writing clean, tested code and maintain rigorous
 data/experiment logs
+
 • Created interactive scientific visualizations for human-gut microbiome datasets; delivered browser-based
 explorers and publication-ready figures (Plotly/Emperor)
+
 • Deployed research apps on Linux; automated workflows and CI/CD (Docker, Git); collaborated with
 faculty/grad students to turn findings into experiments and reports.
 
 ---
 ## Works in Progress
 **Stability and Rates of Gradient-Based Learning in Multi-Player Games** Studying the stability and finite-time rates of popular gradient-based learning dynamics in N -player smooth general-sum games with convex constraints and noisy feedback.While two-player settings are well-understood, extensions to N -player, constrained, and noisy environments remain incomplete. My work will unify Lyapunov methods, variational inequalities, and spectral analysis of game Jacobians to provide both positive (convergence guarantees) and negative (cycling/divergence) results.
+
 **Classifying Market Crashes** Complex systems are extensively studied using spectral and network properties to tackle various real-world challenges. The financial market's complexity arises from the interactions among its constituent stocks, resulting in dynamic correlation patterns that change significantly during critical events. This study focuses on the eigen-entropy and network properties of financial correlation matrices (S&P 500, 2008–2024; Number of stocks, N = 427). Identifying and segregating these critical events is vital for timely intervention and prevention. 
+
 **Modeling Practice Effects in Remote Cognitive Assessments** Remote health assessments are vital for accessible healthcare, especially for people in places like rural Utah and people who cannot frequently visit healthcare facilities/clinics. But due to remote health assessment being repetitive, people start to improve in assessment not because of improvement in their underlying ability rather due to memorization also known as practice effect. Practice effects can skew the results. Our research will explore these performance changes due to task repetition—which isn't true learning—to make remote assessment tools more accurate. 
 
 ---
