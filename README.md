@@ -24,8 +24,11 @@ explorers and publication-ready figures (Plotly/Emperor)
 faculty/grad students to turn findings into experiments and reports.
 
 ---
+## Submitted Research
+**Linear Convergence of Projected Extragradient Methods (COLT 2026 Submission)** This research addresses the oscillation and instability inherent in gradient-based learning for continuous games. While classical Gradient Descent-Ascent (GDA) often fails in skew-dominant landscapes, this work analyzes Tseng’s Forward-Backward-Forward (FBF) scheme as a robust alternative. We provide a self-contained framework demonstrating last-iterate linear convergence under strong monotonicity and introduce novel "symmetric Jacobian certificates" to verify these stability conditions in smooth games. Additionally, the paper extends these guarantees to the stochastic setting, proving that FBF exhibits geometric decay to a fundamental noise floor even under high-variance oracle feedback.
+
+---
 ## On-going Research
-**Stability and Rates of Gradient-Based Learning in Multi-Player Games** Studying the stability and finite-time rates of popular gradient-based learning dynamics in N -player smooth general-sum games with convex constraints and noisy feedback.While two-player settings are well-understood, extensions to N -player, constrained, and noisy environments remain incomplete. My work will unify Lyapunov methods, variational inequalities, and spectral analysis of game Jacobians to provide both positive (convergence guarantees) and negative (cycling/divergence) results.
 
 **Classifying Market Crashes** Complex systems are extensively studied using spectral and network properties to tackle various real-world challenges. The financial market's complexity arises from the interactions among its constituent stocks, resulting in dynamic correlation patterns that change significantly during critical events. This study focuses on the eigen-entropy and network properties of financial correlation matrices (S&P 500, 2008–2024; Number of stocks, N = 427). Identifying and segregating these critical events is vital for timely intervention and prevention. 
 
@@ -49,6 +52,9 @@ Key coursework: Probability Theory · Stochastic Processes · Time-Series Analys
 ---
 
 ## 🏆 Awards
+**MIT iQuickHack Quantum COmputing Hackathon - Rank 30/600, Certificate of Achievment**
+Jan 2026
+* debugged the QASM (measurements/mapping), enforced the Alice–Bob LOCC constraints, and built a fast “peak-finder” pipeline to reliably extract the highest-probability 46-qubit bitstring.
 **International COMAP Mathematical Modeling Contest — “Successful Participant”**  
 May 2025  
 * Built a spatiotemporal model of Baltimore’s traffic using GNNs, TCNs, and Neural ODEs; achieved U.S. Top-3 score on Problem D.
