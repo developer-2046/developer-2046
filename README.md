@@ -54,7 +54,8 @@ Key coursework: Probability Theory · Stochastic Processes · Time-Series Analys
 ## 🏆 Awards
 **MIT iQuickHack Quantum COmputing Hackathon - Rank 30/600, Certificate of Achievment**
 Jan 2026
-* debugged the QASM (measurements/mapping), enforced the Alice–Bob LOCC constraints, and built a fast “peak-finder” pipeline to reliably extract the highest-probability 46-qubit bitstring.
+* debugged the QASM (measurements/mapping), enforced the Alice–Bob LOCC constraints, and built a fast “peak-finder” pipeline to reliably extract the highest-probability 46-qubit bitstring
+
 **International COMAP Mathematical Modeling Contest — “Successful Participant”**  
 May 2025  
 * Built a spatiotemporal model of Baltimore’s traffic using GNNs, TCNs, and Neural ODEs; achieved U.S. Top-3 score on Problem D.
