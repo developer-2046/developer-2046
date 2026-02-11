@@ -72,7 +72,7 @@ A custom numerical optimization engine built to solve inverse problems with rigi
 | **Lucid Software Global Programming** | **1st Place** | Outperformed 500+ competitors (incl. PhDs) with a parallelized heuristic search in Rust. |
 | **MIT iQuHACK 2026** | **Top 6% (Global)** | **Rank 35/600**. Built a quantum "peak-finder" pipeline to extract high-prob bitstrings from 46-qubit circuits. |
 | **NVIDIA AI Hackathon** | **NVIDIA's Choice** | Won "Best Model" for the GCN-LSTM air quality forecaster ($R^2=0.872$). |
-| **ICPC Rocky Mountain Regional** | **Rank 8 (Top 10)** | Top University of Utah team. Solved 6/10 algorithmic problems under strict time constraints. |
+| **ICPC Rocky Mountain Regional** | **Rank 8 (Top 10)** | Top University of Utah team. Solved 8/12 algorithmic problems under strict time constraints. |
 
 ---
 
