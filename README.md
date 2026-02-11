@@ -1,88 +1,91 @@
-# **Yuvraj Malik**
-Salt Lake City, UT · +1 (801) 879-7242 · yuvrajmalik2046@gmail.com  
-[GitHub ↗](https://github.com/developer-2046) · [LinkedIn ↗](https://www.linkedin.com/in/yuvrajmalik/) · [Protfolio ↗](https://yuvraj-malik.netlify.app/)
+<div align="center">
+  <h1>Yuvraj Malik</h1>
+  <h3>Quant Developer | Applied Mathematics | Systems Engineer</h3>
+
+  <p>
+    <b>Salt Lake City, UT</b> • 
+    <a href="https://yuvraj-malik.netlify.app/">Portfolio ↗</a> • 
+    <a href="https://www.linkedin.com/in/yuvrajmalik/">LinkedIn ↗</a> • 
+    <a href="mailto:yuvrajmalik2046@gmail.com">Email</a>
+  </p>
+
+  <p>
+    I build production-grade systems that <i>learn, scale, and resist failure</i>. <br>
+    My work sits at the intersection of <b>Low-Latency Systems (Rust/C++)</b>, <b>Statistical Learning</b>, and <b>Market Microstructure</b>.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  </p>
+</div>
 
 ---
 
-## 🛰️ Professional Profile
-Double-major in **Computer Science** and **Applied Mathematics** at the University of Utah.  
-I design and ship production-grade systems that *learn, scale, and resist failure*—from a Java machine-learning library to a Rust back-tester and an entropy-driven market-regime detector. Comfortable jumping between low-level optimization, statistical theory, and full-stack delivery while writing documentation that humans actually read. 
+## 🚀 Flagship Engineering
 
----
-## Experience
-**Undergraduate Research Assistant, University of Utah**   Sep 2024 - Current
-• Investigating practice effects in digital-health assessment tasks; designing and fitting mixed-effects/time-series
-models grounded in cognitive-science theory (Python/R)
+### 1. [The Terminal: Quant Analytics Platform]
+> **Stack:** Rust (Core), Python (FastAPI), React, PyTorch, Black-Scholes
 
-• Building reproducible analysis pipelines and internal tooling; writing clean, tested code and maintain rigorous
-data/experiment logs
+A high-performance hybrid trading platform designed for sophisticated market analysis.
+* **Rust-Powered Backtester:** Engineered a `pyo3` binding to a Rust core, enabling lightning-fast simulation of tick-level strategies over multi-year datasets.
+* **Market Entropy Engine:** Implements **Shannon Entropy** on rolling correlation matrices (S&P 500 sectors) to detect regime shifts (Stable vs. Chaotic) in real-time.
+* **Bayesian Signal Fusion:** Uses a Bayesian inference engine to combine **News Sentiment (LSTM)** with volatility signals for dynamic conviction sizing.
+* **Real-Time Greeks:** Renders live options chains with Delta/Gamma/Theta calculations via a custom Black-Scholes implementation.
 
-• Created interactive scientific visualizations for human-gut microbiome datasets; delivered browser-based
-explorers and publication-ready figures (Plotly/Emperor)
+### 2. [Air Quality Forecasting via Geometric Deep Learning]
+> **Award:** 🏆 NVIDIA's Choice Award (Breath of Fresh Air Hackathon)
 
-• Deployed research apps on Linux; automated workflows and CI/CD (Docker, Git); collaborated with
-faculty/grad students to turn findings into experiments and reports.
+Solved the "spatial correlation" problem in air quality forecasting using Graph Neural Networks.
+* **Model:** Built a **GCN-LSTM** (Graph Convolutional Network + LSTM) to model air sensors as a graph, capturing non-Euclidean spatial dependencies.
+* **Impact:** Improved forecasting accuracy ($R^2$) from **0.642 to 0.872**, outperforming standard time-series baselines.
+* **Optimization:** Optimized training pipelines on NVIDIA GPUs using mixed-precision tensors.
 
----
-## Submitted Research
-**Linear Convergence of Projected Extragradient Methods (COLT 2026 Submission)** This research addresses the oscillation and instability inherent in gradient-based learning for continuous games. While classical Gradient Descent-Ascent (GDA) often fails in skew-dominant landscapes, this work analyzes Tseng’s Forward-Backward-Forward (FBF) scheme as a robust alternative. We provide a self-contained framework demonstrating last-iterate linear convergence under strong monotonicity and introduce novel "symmetric Jacobian certificates" to verify these stability conditions in smooth games. Additionally, the paper extends these guarantees to the stochastic setting, proving that FBF exhibits geometric decay to a fundamental noise floor even under high-variance oracle feedback.
+### 3. [Maximum-Entropy Variational Inequality Solver]
+> **Context:** COMAP MCM 2026 (Outstanding Winner Nominee - Team 2618069)
 
----
-## On-going Research
-
-**Classifying Market Crashes** Complex systems are extensively studied using spectral and network properties to tackle various real-world challenges. The financial market's complexity arises from the interactions among its constituent stocks, resulting in dynamic correlation patterns that change significantly during critical events. This study focuses on the eigen-entropy and network properties of financial correlation matrices (S&P 500, 2008–2024; Number of stocks, N = 427). Identifying and segregating these critical events is vital for timely intervention and prevention. 
-
-**Modeling Practice Effects in Remote Cognitive Assessments** Remote health assessments are vital for accessible healthcare, especially for people in places like rural Utah and people who cannot frequently visit healthcare facilities/clinics. But due to remote health assessment being repetitive, people start to improve in assessment not because of improvement in their underlying ability rather due to memorization also known as practice effect. Practice effects can skew the results. Our research will explore these performance changes due to task repetition—which isn't true learning—to make remote assessment tools more accurate. 
-
----
-## 🎓 Education
-**B.S. Computer Science & Applied Mathematics** — University of Utah (Current)
-Salt Lake City, UT  
-
-Key coursework: Probability Theory · Stochastic Processes · Time-Series Analysis · Econometrics · Numerical Linear Algebra · Convex Optimization · Machine Learning · Deep Learning · Distributed & High-Performance Computing · Database Systems
+A custom numerical optimization engine built to solve inverse problems with rigid inequality constraints.
+* **The Math:** Implemented the **Mirror-Prox (Extragradient)** algorithm to solve monotone Variational Inequalities (VIs) with $O(1/t)$ convergence.
+* **The Application:** Reconstructed hidden "Fan Vote Shares" from binary elimination data (Dancing with the Stars), successfully converging on high-entropy distributions where standard solvers failed.
 
 ---
 
-## 🔧 Technical Toolkit
-**Languages** Python · Rust · Java · C/C++ · SQL · R · Julia  
-**Frameworks / Libraries** PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy · Polars · Matplotlib · Plotly · Jupyter · PyO3  
-**DevOps & Tools** Git · Docker · Linux · VS Code · Grafana  
-**Concepts** Information Theory · Random Matrix Theory · Spectral Graph Theory · Time-Series Modeling · Back-testing · Optimization · Cryptography · Ethical Hacking
+## 🔬 Selected Research
+
+### **Linear Convergence of Projected Extragradient Methods**
+* **Submission:** COLT 2026 (Computational Learning Theory)
+* **Problem:** Gradient Descent-Ascent (GDA) often oscillates or diverges in continuous games (e.g., GAN training).
+* **Contribution:** We analyzed Tseng’s **Forward-Backward-Forward (FBF)** scheme, providing a self-contained proof of last-iterate linear convergence. We introduced novel "symmetric Jacobian certificates" to verify stability conditions and extended guarantees to stochastic settings with high-variance feedback.
+
+### **Classifying Market Crashes via Spectral Entropy**
+* **Focus:** Econophysics / Random Matrix Theory
+* **Methodology:** Analyzing the eigen-entropy of financial correlation matrices (S&P 500, 2008–2024). The study isolates "critical events" (crashes) by detecting breakdown in the dominant market mode, serving as a signal for regime-switching algorithms.
 
 ---
 
-## 🏆 Awards
-**MIT iQuickHack Quantum COmputing Hackathon - Rank 30/600, Certificate of Achievment**
-Jan 2026
-* debugged the QASM (measurements/mapping), enforced the Alice–Bob LOCC constraints, and built a fast “peak-finder” pipeline to reliably extract the highest-probability 46-qubit bitstring
+## 🏆 Competitive Achievements
 
-**International COMAP Mathematical Modeling Contest — “Successful Participant”**  
-May 2025  
-* Built a spatiotemporal model of Baltimore’s traffic using GNNs, TCNs, and Neural ODEs; achieved U.S. Top-3 score on Problem D.
-
-**A breath of fresh air AI hackathon — Nvidia's Award**  
-June 2025  
-* Achieved 0.872 R squared accuracy in forecasting PM2.5 air quality by developing an award-winning (Nvidia's Choice) GCN-LSTM deep learning model at the Fresh Air Hackathon.
-
-**Lucid Software Global Programming Competition — 1st Place**  
-Oct 2024  
-* Out-performed 500-plus competitors (incl. Duke & UNC PhDs) with a parallelized heuristic search written in Rust.
+| Event | Rank / Award | Details |
+| :--- | :--- | :--- |
+| **Lucid Software Global Programming** | **1st Place** | Outperformed 500+ competitors (incl. PhDs) with a parallelized heuristic search in Rust. |
+| **MIT iQuHACK 2026** | **Top 6% (Global)** | **Rank 35/600**. Built a quantum "peak-finder" pipeline to extract high-prob bitstrings from 46-qubit circuits. |
+| **NVIDIA AI Hackathon** | **NVIDIA's Choice** | Won "Best Model" for the GCN-LSTM air quality forecaster ($R^2=0.872$). |
+| **ICPC Rocky Mountain Regional** | **Rank 8 (Top 10)** | Top University of Utah team. Solved 6/10 algorithmic problems under strict time constraints. |
+| **Stevens Trading Day** | **Winner** | Built a high-frequency market-making bot in C++ (Order Book dynamics). |
 
 ---
 
-## 🚀 Selected Projects
-### Java Machine-Learning Library — *javaml*
-Open-source, full-stack ML toolkit featuring linear/logistic regression, SGD, cross-validation, and transformer-style APIs; >1 k LOC, 100 % Javadoc coverage.  
+## 🔧 Technical Arsenal
 
-### Rust + Python Event-Driven Back-Tester
-Modular engine with tick-level execution, walk-forward evaluation, and equity-curve tracking; Rust core wrapped via PyO3 for Pandas-based analysis.  
-
-### Entropy-Guided Clustering Engine
-Pipeline that computes eigen-entropy of rolling S&P 500 correlation matrices, performs PCA, and clusters regimes with K-Means; visualizes crash periods & volatility bursts.  
-
-### Market Index Analysis Toolkit
-Dynamic S&P 500 tracker with historical GICS mapping, price normalization, and CSV export for downstream factor models; published for community use.
+* **Languages:** Python, Rust, C++, Java, SQL, Julia, R.
+* **Quant & ML:** PyTorch, NumPy/Pandas, Scikit-learn, PyO3, Polars.
+* **Math:** Convex Optimization, Stochastic Processes, Graph Theory, Random Matrix Theory.
+* **Infrastructure:** Docker, Linux (Arch/Debian), Git, CI/CD, Grafana.
 
 ---
 
-> *“Don’t just learn code. Build with it, break it, and push it to the limit.”*
+<div align="center">
+  <i>"Don’t just learn code. Build with it, break it, and push it to the limit."</i>
+</div>
