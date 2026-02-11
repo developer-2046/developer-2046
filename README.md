@@ -26,7 +26,7 @@
 
 ## 🚀 Flagship Engineering
 
-### 1. [The Terminal: Quant Analytics Platform]
+### 1. The Terminal: Quant Analytics Platform
 > **Stack:** Rust (Core), Python (FastAPI), React, PyTorch, Black-Scholes
 
 A high-performance hybrid trading platform designed for sophisticated market analysis.
@@ -35,7 +35,7 @@ A high-performance hybrid trading platform designed for sophisticated market ana
 * **Bayesian Signal Fusion:** Uses a Bayesian inference engine to combine **News Sentiment (LSTM)** with volatility signals for dynamic conviction sizing.
 * **Real-Time Greeks:** Renders live options chains with Delta/Gamma/Theta calculations via a custom Black-Scholes implementation.
 
-### 2. [Air Quality Forecasting via Geometric Deep Learning]
+### 2. Air Quality Forecasting via Geometric Deep Learning
 > **Award:** 🏆 NVIDIA's Choice Award (Breath of Fresh Air Hackathon)
 
 Solved the "spatial correlation" problem in air quality forecasting using Graph Neural Networks.
@@ -43,7 +43,7 @@ Solved the "spatial correlation" problem in air quality forecasting using Graph 
 * **Impact:** Improved forecasting accuracy ($R^2$) from **0.642 to 0.872**, outperforming standard time-series baselines.
 * **Optimization:** Optimized training pipelines on NVIDIA GPUs using mixed-precision tensors.
 
-### 3. [Maximum-Entropy Variational Inequality Solver]
+### 3. Maximum-Entropy Variational Inequality Solver
 > **Context:** COMAP MCM 2026 (Outstanding Winner Nominee - Team 2618069)
 
 A custom numerical optimization engine built to solve inverse problems with rigid inequality constraints.
@@ -73,7 +73,6 @@ A custom numerical optimization engine built to solve inverse problems with rigi
 | **MIT iQuHACK 2026** | **Top 6% (Global)** | **Rank 35/600**. Built a quantum "peak-finder" pipeline to extract high-prob bitstrings from 46-qubit circuits. |
 | **NVIDIA AI Hackathon** | **NVIDIA's Choice** | Won "Best Model" for the GCN-LSTM air quality forecaster ($R^2=0.872$). |
 | **ICPC Rocky Mountain Regional** | **Rank 8 (Top 10)** | Top University of Utah team. Solved 6/10 algorithmic problems under strict time constraints. |
-| **Stevens Trading Day** | **Winner** | Built a high-frequency market-making bot in C++ (Order Book dynamics). |
 
 ---
 
