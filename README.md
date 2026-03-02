@@ -69,6 +69,7 @@ A custom numerical optimization engine built to solve inverse problems with rigi
 
 | Event | Rank / Award | Details |
 | :--- | :--- | :--- |
+| **Intercollegiate Math Tournament (ICMT) 2026** | **Team: 5th \| Individual: 11th** | Power Round: **5th**. Constellation Round: **7th**. |
 | **Lucid Software Global Programming** | **1st Place** | Outperformed 500+ competitors (incl. PhDs) with a parallelized heuristic search in Rust. |
 | **MIT iQuHACK 2026** | **Top 6% (Global)** | **Rank 35/600**. Built a quantum "peak-finder" pipeline to extract high-prob bitstrings from 46-qubit circuits. |
 | **NVIDIA AI Hackathon** | **NVIDIA's Choice** | Won "Best Model" for the GCN-LSTM air quality forecaster ($R^2=0.872$). |
