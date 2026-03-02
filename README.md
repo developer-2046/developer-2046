@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Yuvraj Malik</h1>
-  <h3>Quant Developer | Applied Mathematics | Systems Engineer</h3>
+  <h3>Quant Researcher | Optimization & Stochastic Control | Market Microstructure </h3>
 
   <p>
     <b>Salt Lake City, UT</b> • 
