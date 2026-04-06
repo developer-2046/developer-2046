@@ -26,7 +26,18 @@
 
 ## 🚀 Flagship Engineering
 
-### 1. The Terminal: Quant Analytics Platform
+### 1. Microstructure Alpha Lab
+> **Stack:** Python, pandas, scikit-learn, matplotlib, market microstructure data
+
+A quant research project studying whether interpretable order book features contain short-horizon predictive signal once evaluated with walk-forward validation and realistic execution costs.
+
+* **Research Engine:** Built a reusable pipeline for ingesting, aligning, and modeling limit order book and trade data on a 1-second grid.
+* **Signal Design:** Tested microstructure features such as imbalance, microprice deviation, spread, depth concentration, realized volatility, and order-flow imbalance for next-horizon price direction prediction.
+* **Robust Evaluation:** Used chronological train/validation/test splits and rolling walk-forward experiments to measure out-of-sample stability.
+* **Execution Realism:** Implemented cost-aware backtests using bid/ask execution rather than frictionless mid-price assumptions.
+* **Key Finding:** Observed weak but interpretable directional signal, with performance concentrated in lower-volatility regimes and mostly eroded by transaction costs.
+
+### 2. The Terminal: Quant Analytics Platform
 > **Stack:** Rust (Core), Python (FastAPI), React, PyTorch, Black-Scholes
 
 A high-performance hybrid trading platform designed for sophisticated market analysis.
@@ -35,7 +46,7 @@ A high-performance hybrid trading platform designed for sophisticated market ana
 * **Bayesian Signal Fusion:** Uses a Bayesian inference engine to combine **News Sentiment (LSTM)** with volatility signals for dynamic conviction sizing.
 * **Real-Time Greeks:** Renders live options chains with Delta/Gamma/Theta calculations via a custom Black-Scholes implementation.
 
-### 2. Air Quality Forecasting via Geometric Deep Learning
+### 3. Air Quality Forecasting via Geometric Deep Learning
 > **Award:** 🏆 NVIDIA's Choice Award (Breath of Fresh Air Hackathon)
 
 Solved the "spatial correlation" problem in air quality forecasting using Graph Neural Networks.
@@ -43,7 +54,7 @@ Solved the "spatial correlation" problem in air quality forecasting using Graph 
 * **Impact:** Improved forecasting accuracy ($R^2$) from **0.642 to 0.872**, outperforming standard time-series baselines.
 * **Optimization:** Optimized training pipelines on NVIDIA GPUs using mixed-precision tensors.
 
-### 3. Maximum-Entropy Variational Inequality Solver
+### 4. Maximum-Entropy Variational Inequality Solver
 > **Context:** COMAP MCM 2026 (Outstanding Winner Nominee - Team 2618069)
 
 A custom numerical optimization engine built to solve inverse problems with rigid inequality constraints.
