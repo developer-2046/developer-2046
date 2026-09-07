@@ -4,7 +4,6 @@
 
   <p>
     <b>Salt Lake City, UT</b> · 
-    <a href="https://developer-2046.github.io/">Portfolio</a> · 
     <a href="https://www.linkedin.com/in/yuvrajmalik/">LinkedIn</a> · 
     <a href="mailto:yuvrajmalik2046@gmail.com">Email</a>
   </p>
